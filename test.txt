@@ -1,3 +1,5 @@
 Hello World!
 Print()
 куку
+
+New string
